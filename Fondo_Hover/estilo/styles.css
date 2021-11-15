@@ -1,0 +1,16 @@
+div{
+	
+	border:7px solid darkblue;
+	border-radius: 20px;
+	padding: 8% 15%;
+	background-image:url("../imagenes/husky.jpeg");
+	background-repeat:no-repeat;
+	display:inline-block;
+	background-size: 100% 100%;
+}
+div:hover{
+	background-image: url("../imagenes/husky2.jpeg");
+}
+body{
+	text-align: center;
+}
