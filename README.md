@@ -1,1 +1,0 @@
-# Imagen-de-fondo-con-hover
